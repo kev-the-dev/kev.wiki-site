@@ -3,3 +3,4 @@ plugins:
   - jekyll-remote-theme
 title: [Kevin Allen]
 description: [My personal website and wiki!]
+logo: /assets/headshot.jpeg
