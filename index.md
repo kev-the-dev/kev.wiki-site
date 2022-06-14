@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 # Links
 
 * [LinkedIn](https://www.linkedin.com/in/kevin-allen-profile/){:target="_blank"}
